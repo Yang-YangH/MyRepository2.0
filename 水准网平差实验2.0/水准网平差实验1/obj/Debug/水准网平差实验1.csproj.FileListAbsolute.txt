@@ -1,0 +1,18 @@
+C:\Users\lenovo\Desktop\C#重学\水准网平差实验1\水准网平差实验1\bin\Debug\水准网平差实验1.exe.config
+C:\Users\lenovo\Desktop\C#重学\水准网平差实验1\水准网平差实验1\bin\Debug\水准网平差实验1.exe
+C:\Users\lenovo\Desktop\C#重学\水准网平差实验1\水准网平差实验1\bin\Debug\水准网平差实验1.pdb
+C:\Users\lenovo\Desktop\C#重学\水准网平差实验1\水准网平差实验1\obj\Debug\水准网平差实验1.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\C#重学\水准网平差实验1\水准网平差实验1\obj\Debug\水准网平差实验1.Form1.resources
+C:\Users\lenovo\Desktop\C#重学\水准网平差实验1\水准网平差实验1\obj\Debug\水准网平差实验1.Properties.Resources.resources
+C:\Users\lenovo\Desktop\C#重学\水准网平差实验1\水准网平差实验1\obj\Debug\水准网平差实验1.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\C#重学\水准网平差实验1\水准网平差实验1\obj\Debug\水准网平差实验1.exe
+C:\Users\lenovo\Desktop\C#重学\水准网平差实验1\水准网平差实验1\obj\Debug\水准网平差实验1.pdb
+C:\Users\lenovo\Desktop\C#重学\水准网平差实验1 - 副本\水准网平差实验1\bin\Debug\水准网平差实验1.exe.config
+C:\Users\lenovo\Desktop\C#重学\水准网平差实验1 - 副本\水准网平差实验1\obj\Debug\水准网平差实验1.exe
+C:\Users\lenovo\Desktop\C#重学\水准网平差实验1 - 副本\水准网平差实验1\obj\Debug\水准网平差实验1.pdb
+C:\Users\lenovo\Desktop\C#重学\水准网平差实验1 - 副本\水准网平差实验1\bin\Debug\水准网平差实验1.exe
+C:\Users\lenovo\Desktop\C#重学\水准网平差实验1 - 副本\水准网平差实验1\bin\Debug\水准网平差实验1.pdb
+C:\Users\lenovo\Desktop\C#重学\水准网平差实验1 - 副本\水准网平差实验1\obj\Debug\水准网平差实验1.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\C#重学\水准网平差实验1 - 副本\水准网平差实验1\obj\Debug\水准网平差实验1.Form1.resources
+C:\Users\lenovo\Desktop\C#重学\水准网平差实验1 - 副本\水准网平差实验1\obj\Debug\水准网平差实验1.Properties.Resources.resources
+C:\Users\lenovo\Desktop\C#重学\水准网平差实验1 - 副本\水准网平差实验1\obj\Debug\水准网平差实验1.csproj.GenerateResource.Cache
